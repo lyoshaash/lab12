@@ -13,6 +13,4 @@
 ![результат 12](lab12res.png)
 
 ## Список использованных источников
-
-[лаба](https://evil-teacher.on.fleek.co/prog_pm/lab1/](https://evil-teacher.on.fleek.co/prog_pm/term2/lab12/](https://evil-teacher.on.fleek.co/prog_pm/term2/lab12/)
-
+[лаба](https://evil-teacher.on.fleek.co/prog_pm/term2/lab12/)
